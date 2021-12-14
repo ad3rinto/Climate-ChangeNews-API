@@ -1,0 +1,17 @@
+{
+  "name": "climate_change_api",
+  "version": "1.0.0",
+  "description": "Climate change API app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "A Aderinto",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
